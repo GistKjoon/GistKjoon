@@ -11,7 +11,7 @@ Hello! I'm **Joon Kim**
 ## 🛠️ Tech Stack
 
 * **Languages**: C++, Python, JavaScript
-* **Frameworks & Tools**: ROS2, Jekyll, GitHub Actions
+* **Frameworks & Tools**: ROS2, GitHub Actions
 * **DevOps**: Docker, CI/CD with GitHub Actions
 
 
