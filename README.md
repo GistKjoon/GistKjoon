@@ -6,7 +6,7 @@
 
 ## 👋 Introduction
 
-Hello! I'm **Joon Kim**, a researcher and developer working on distributed algorithms and ROS2 applications.
+Hello! I'm **Joon Kim**
 
 ## 🛠️ Tech Stack
 
