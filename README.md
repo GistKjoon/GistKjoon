@@ -2,21 +2,5 @@
 
 > **welcome to Kjoon's page**
 
----
 
-## 👋 Introduction
-
-Hello! I'm **Joon Kim**
-
-## 🛠️ Tech Stack
-
-* **Languages**: C++, Python, JavaScript
-* **Frameworks & Tools**: ROS2, GitHub Actions
-* **DevOps**: Docker, CI/CD with GitHub Actions
-
-
-## something 
-
-
-*Thanks for stopping by!* Feel free to explore my repositories and get in touch.
 
